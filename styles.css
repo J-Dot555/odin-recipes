@@ -1,0 +1,36 @@
+:root {
+  background-color: #ddddff;
+}
+
+.index {
+  text-align: center;
+}
+
+h1,
+h2,
+p,
+ol,
+ul,
+a {
+  color: #00aaff;
+  font-family: Poppins, Arial, sans-serif;
+}
+
+.food-image {
+  display: block;
+  border: 2px solid #00aaff;
+  width: 20rem;
+  height: auto;
+}
+
+.button {
+  margin-bottom: 1rem;
+  background-color: #00aaff;
+  color: white; 
+  text-decoration: none;
+  text-align: center; 
+  display: inline-block; 
+  cursor: pointer;
+  padding: .5rem 1rem;
+  border-radius: 8px;
+}
